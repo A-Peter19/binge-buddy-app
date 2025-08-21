@@ -1,0 +1,6 @@
+com/example/bingebuddy/config/RestClientConfig.class
+com/example/bingebuddy/BingeBuddyApplication.class
+com/example/bingebuddy/HealthController.class
+com/example/bingebuddy/service/TvMazeClient$1.class
+com/example/bingebuddy/controller/ShowController.class
+com/example/bingebuddy/service/TvMazeClient.class
